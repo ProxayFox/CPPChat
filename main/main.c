@@ -1,3 +1,3 @@
-int main(int argc, char** arg) {	
-	return 0;
+int main(int argc, char** arg) {
+return 0;
 }
